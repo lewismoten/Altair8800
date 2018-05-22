@@ -1,5 +1,5 @@
 # Light Switch
-Turn Lights On program by Lewis Moten, May 21, 2018
+Program by Lewis Moten, May 21, 2018
 
 ## Object
 Turn lights on above the sense switches.
