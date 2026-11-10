@@ -1,3 +1,5 @@
+![Altair8800: Altair 8800 front panel](docs/images/social-preview.png)
+
 # Altair8800
 
 Code for the Altair 8800.
